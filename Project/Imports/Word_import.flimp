@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport PreserveMappedStyles="True" CreateNewStylesheet="True" InlineFormatting="Convert" UseFirstHeadingAsTopicTitle="True" UseMaxCharLimit="False" MaxCharLimit="10000" UseMinCharLimit="True" MinCharLimit="50" AddContinuedLinks="False" ContinuedLinkFormat="(continued in {title})" AddContinuedFromLinks="False" ContinuedFromLinkFormat="(continued from {title})" FilenameLength="24" AutoFitTables="False" UseHeaderRows="true" TableStyles="ProjectStyleSheet" UseListBullets="True" ConvertEquations="True" GeneratePageLayouts="False" PageBreaks="Convert" KeepSourceLinks="False" AutoSync="False" LastImport="2021-06-30T13:36:16.9442194+03:00">
+    <Files>
+        <Url Source="../../../Users/DELL/Desktop/Analysis of Persuasive Techniques by Online and Phone Scammers.docx" AbsoluteSource="file:///C:/Users/DELL/Desktop/Analysis of Persuasive Techniques by Online and Phone Scammers.docx" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles />
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/Resources/Images/Analysis of Persuasive Techniques by Online and Phone Scammers/Analysis of Persuasive Techniques by Online and Phone Scammers.png" TimeStamp="6/30/2021 1:36:05 PM" />
+        <Url Source="../../Content/Analysis of Persuasive Techniques by Online and Phone Scammers.htm" TimeStamp="6/30/2021 1:36:05 PM" />
+        <Url Source="../TOCs/Word_import.fltoc" TimeStamp="6/30/2021 1:36:05 PM" />
+        <Url Source="../../Content/Resources/MasterPages/Word_import.flmsp" TimeStamp="6/30/2021 1:36:05 PM" />
+        <Url Source="../../Content/Resources/Stylesheets/Word_import.css" TimeStamp="6/30/2021 1:36:05 PM" />
+    </GeneratedFiles>
+    <ParagraphStyles>
+        <Map From="Heading 1" To="h1.Heading1" Style="Word" />
+        <Map From="Heading 2" To="h2.Heading2" Style="Word" />
+    </ParagraphStyles>
+    <CharacterStyles />
+    <NewTopicStyles>
+        <StyleName Name="Heading 1" />
+    </NewTopicStyles>
+</MsWordImport>
